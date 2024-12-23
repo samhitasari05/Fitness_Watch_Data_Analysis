@@ -48,10 +48,7 @@ python code_file/Fitness_Data_Analysis.py or jupyter notebook code_file/Fitness_
 2. **Time-Series Analysis**:
    ![Time-Series Analysis](images/timeseriesanalysis.png)
 
-3. **Interactive Scatter Plot**:
-   ![Interactive Scatter Plot](images/Interactivescatterplot.png)
-
-4. **Step Count vs Energy per Step**:
+3. **Step Count vs Energy per Step**:
    ![Step Count vs Energy per Step](images/stepcountvsenergyperstep.png)
 
 # Future Work
