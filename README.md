@@ -40,6 +40,20 @@ cd Fitness-Watch-Data-Analysis
 python code_file/Fitness_Data_Analysis.py or jupyter notebook code_file/Fitness_Data_Analysis.ipynb
 4) View the results: Visualizations will appear in the notebook or be saved in the images/ directory.
 
+## Key Visualizations
+
+1. **Correlation Heatmap**:
+   ![Correlation Heatmap](images/correlationheatmap.png)
+
+2. **Time-Series Analysis**:
+   ![Time-Series Analysis](images/timeseriesanalysis.png)
+
+3. **Interactive Scatter Plot**:
+   ![Interactive Scatter Plot](images/Interactivescatterplot.png)
+
+4. **Step Count vs Energy per Step**:
+   ![Step Count vs Energy per Step](images/stepcountvsenergyperstep.png)
+
 # Future Work
 1) Integrate additional data such as heart rate or sleep patterns for richer analysis.
 2) Explore advanced machine learning methods like hierarchical clustering or regression models.
